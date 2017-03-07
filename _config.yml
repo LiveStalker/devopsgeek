@@ -49,7 +49,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "livestalker"
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "livestalker"
   google_plus      :
   keybase          :
   instagram        :
@@ -94,7 +94,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "livestalker"
   vine             :
   weibo            :
   xing             :
