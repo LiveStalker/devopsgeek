@@ -224,6 +224,10 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  handbooks:
+    output: true
 
 # Defaults
 defaults:
