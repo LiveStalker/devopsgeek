@@ -8,6 +8,10 @@ title: Интересные закладки
 
 * [Rethinking PID 1](http://0pointer.de/blog/projects/systemd.html)
 
+### Vim
+
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+
 ## Microsoft
 
 ### MSSQL
