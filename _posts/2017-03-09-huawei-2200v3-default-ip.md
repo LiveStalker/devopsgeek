@@ -1,6 +1,6 @@
 ---
 title: Huawei 2200 v3 default ip addresses and password
-tags: notes en
+tags: huawei oceanstor notes en
 ---
 Today I tested new storage system: _Huawei OceanStor 2200 V3_. And I really liked this system. This is the third model of the data storage system of this manufacturer with which I happened to work.
 
