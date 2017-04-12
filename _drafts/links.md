@@ -12,6 +12,10 @@ title: Интересные закладки
 
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 
+### Nginx
+
+* [Creating NGINX Rewrite Rules](https://www.nginx.com/blog/creating-nginx-rewrite-rules/)
+
 ## Microsoft
 
 ### MSSQL
