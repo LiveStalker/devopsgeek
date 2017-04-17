@@ -37,12 +37,12 @@ h --- hypothesis function (maps from x`s to y`s)
 Вопрос: какого вида должна быть функция *h*.
 
 Самый простой вариант:
-h<sub>\theta</sub> = \theta<sub>0</sub> + \theta<sub>1</sub>x
+$$h_{\theta} = \theta_{0} + \theta_{1}x$$
 
 Параметры модели:
 
-* \theta<sub>0</sub>
-* \theta<sub>1</sub>
+* \\(\theta_{0}\\)
+* \\(\theta_{1}\\)
 
 
 Мы можем начать с простой линейной функции, а уже потом перейти к более сложной. Модель в основе, которой лежит ЛФ
@@ -52,7 +52,16 @@ h<sub>\theta</sub> = \theta<sub>0</sub> + \theta<sub>1</sub>x
 
 Каким образом нам подобрать параметры модели, чтобы добиться наилучших результатов?
 
-minimize 1/2m * sum(h(x) - y)^2 по всей обучающей выборке
+Нужно минимизировать функцию:
+
 $$J(\theta_0, \theta_1) = \dfrac {1}{2m} \displaystyle \sum _{i=1}^m \left ( \hat{y}_{i}- y_{i} \right)^2 = \dfrac {1}{2m} \displaystyle \sum _{i=1}^m \left (h_\theta (x_{i}) - y_{i} \right)^2$$
 
-[MSE](https://en.wikipedia.org/wiki/Mean_squared_error)
+### Дополнительные ресурсы
+
+* [MSE](https://en.wikipedia.org/wiki/Mean_squared_error)
+
+## Gradient descent (градиентный спуск)
+
+$$\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta_0, \theta_1)$$
+
+* \\(\alpha\\) - шаг (learning rate)
