@@ -1,0 +1,64 @@
+## Basic Configuration
+
+baseURL = "https://devopsgeek.ru/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-us"
+
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "doc"
+
+author = "Alexey Grebenshchikov"
+title = "Simple about ..."
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+#googleAnalytics = "XYZ"
+#enableRobotsTXT = true
+[permalinks]
+posts = "/:year/:month/:title/"
+
+## Site Settings
+[params]
+author = "Alexey Grebenshchikov"
+intro = "Simple about ..."
+description = "???"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+#[params.meta]
+#description = "Simple minimalist theme"
+#keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "livestalker"
+email = "mi.aleksio@gmail.com"
+#stackoverflow = "<username>"
+#google = "<username>"
+#twitter = "<username>"
+#instagram = "<username>"
+#linkedin = "<username>"
+#facebook = "<username>"
+
+## Extras
+[params.extra]
+#copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+#poweredby = true
+#hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/posts/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
