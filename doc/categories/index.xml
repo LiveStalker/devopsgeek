@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Simple about ...</title>
+    <link>https://devopsgeek.ru/categories/</link>
+    <description>Recent content in Categories on Simple about ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://devopsgeek.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Develop</title>
+      <link>https://devopsgeek.ru/categories/develop/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/categories/develop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://devopsgeek.ru/categories/hardware/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/categories/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysadmin</title>
+      <link>https://devopsgeek.ru/categories/sysadmin/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/categories/sysadmin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

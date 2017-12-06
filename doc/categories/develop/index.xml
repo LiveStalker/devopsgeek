@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Develop on Simple about ...</title>
+    <link>https://devopsgeek.ru/categories/develop/</link>
+    <description>Recent content in Develop on Simple about ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://devopsgeek.ru/categories/develop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Выход из режима вставки</title>
+      <link>https://devopsgeek.ru/2017/04/%D0%B2%D1%8B%D1%85%D0%BE%D0%B4-%D0%B8%D0%B7-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B0-%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/2017/04/%D0%B2%D1%8B%D1%85%D0%BE%D0%B4-%D0%B8%D0%B7-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B0-%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8/</guid>
+      <description>Помимо стандартных способов выхода из режима вставки в Vim:
+ &amp;lt;esc&amp;gt; &amp;lt;c-c&amp;gt; &amp;lt;c-[&amp;gt;  Можно предложить такой inoremap jk &amp;lt;esc&amp;gt;. Разгружает левую руку, единственный минус - слова с буквами jk.</description>
+    </item>
+    
+    <item>
+      <title>Как вернуть массив из C-функции.</title>
+      <link>https://devopsgeek.ru/2017/03/%D0%BA%D0%B0%D0%BA-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2-%D0%B8%D0%B7-c-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8./</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/2017/03/%D0%BA%D0%B0%D0%BA-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2-%D0%B8%D0%B7-c-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8./</guid>
+      <description>Введение в проблему Про то, как вернуть массив из функции на языке C, написано достаточно много статей. Все же мне бы хотелось обобщить техники, с помощью, которых это можно сделать.
+Давайте для примера разработаем функцию, которая будет конвертировать число в строковое представление (эта функция будет обратная функции atoi), назовем её itoa. Как она должна возвращать сгенерированную (строку) последовательность цифр?
+В этой заметке рассмотрим три техники.
+ Для простоты примера не будем реализовывать цикл do/while, а просто воспользуемся функцией sprintf.</description>
+    </item>
+    
+  </channel>
+</rss>

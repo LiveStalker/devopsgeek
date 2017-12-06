@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huawei on Simple about ...</title>
+    <link>https://devopsgeek.ru/tags/huawei/</link>
+    <description>Recent content in Huawei on Simple about ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://devopsgeek.ru/tags/huawei/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Huawei 2200 v3 default ip addresses and password</title>
+      <link>https://devopsgeek.ru/2017/03/huawei-2200-v3-default-ip-addresses-and-password/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/2017/03/huawei-2200-v3-default-ip-addresses-and-password/</guid>
+      <description>Today I tested new storage system: Huawei OceanStor 2200 V3. And I really liked this system. This is the third model of the data storage system of this manufacturer with which I happened to work.
+Some notes about default IP adresses of this system:
+ The default IP addresses of the management network ports on controllers A and B are respectively 192.168.128.101 and 192.168.128.102, and the default subnet mask is 255.</description>
+    </item>
+    
+    <item>
+      <title>Huawei OceanStor MIB</title>
+      <link>https://devopsgeek.ru/2017/03/huawei-oceanstor-mib/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/2017/03/huawei-oceanstor-mib/</guid>
+      <description>If you need MIB files for Huawei OceanStor go to Support &amp;gt; Bulletins &amp;gt; Service Bulletins &amp;gt; MIB Files &amp;gt; IT on Huawei site. Then download Unified Storage Device MIB Library.</description>
+    </item>
+    
+  </channel>
+</rss>

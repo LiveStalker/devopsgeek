@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Simple about ...</title>
+    <link>https://devopsgeek.ru/tags/</link>
+    <description>Recent content in Tags on Simple about ...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://devopsgeek.ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C Lang</title>
+      <link>https://devopsgeek.ru/tags/c-lang/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/tags/c-lang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To</title>
+      <link>https://devopsgeek.ru/tags/how-to/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/tags/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huawei</title>
+      <link>https://devopsgeek.ru/tags/huawei/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/tags/huawei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://devopsgeek.ru/tags/linux/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rus</title>
+      <link>https://devopsgeek.ru/tags/rus/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/tags/rus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>https://devopsgeek.ru/tags/vim/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://devopsgeek.ru/tags/windows/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://devopsgeek.ru/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
