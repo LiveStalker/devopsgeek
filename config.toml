@@ -26,7 +26,7 @@ posts = "/:year/:month/:title/"
 author = "Alexey Grebenshchikov"
 intro = "Simple about ..."
 description = "???"
-authorimage = "headshot.jpg"
+authorimage = "author.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
