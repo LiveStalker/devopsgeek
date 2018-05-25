@@ -1,18 +1,21 @@
 ## Basic Configuration
 
 baseURL = "https://devopsgeek.ru/"
-builddrafts = false
 canonifyurls = false
 languageCode = "en-us"
 
-contentDir = "content"
-layoutDir = "layouts"
-publishDir = "docs"
+contentDir = "content"             # The directory from where Hugo reads content files
+layoutDir = "layouts"              # The directory from where Hugo reads layouts (templates)
+publishDir = "docs"                # The directory to where Hugo will write the final static site
+
+theme = "hugo-goa"                 # Theme to use (located by default in /themes/THEMENAME/)
+
+buildDrafts = false                # Include drafts when building
+buildExpired = false               # Include content already expired
+buildFuture = false                # Include content with publishdate in the future
 
 author = "Alexey Grebenshchikov"
 title = "Simple about ..."
-
-theme = "hugo-goa"
 
 ## Hugo Built-in Features
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
